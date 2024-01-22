@@ -1,0 +1,17 @@
+torch
+accelerate
+einops 
+bitsandbytes 
+trl 
+peft 
+pandas 
+datasets
+scipy
+transformers
+nltk
+spacy
+pypdf
+python-dotenv
+llama-index
+gradio
+langchain
